@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1677352614,
+        "narHash": "sha256-cH9xFZDRtAb3iZCZGXPg/E7gCxYuh9zQscwOBs9Nfxo=",
+        "type": "git",
+        "url": "file:///etc/nix/nixpkgs"
+      },
+      "original": {
+        "type": "git",
+        "url": "file:///etc/nix/nixpkgs"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,13 @@
+diff --git a/ssh_session.go b/ssh_session.go
+index 277dddc..9946927 100644
+--- a/ssh_session.go
++++ b/ssh_session.go
+@@ -55,7 +55,7 @@ func createSSHSessionHandler(shell string) ssh.Handler {
+ 			}
+ 
+ 			cmd.Stdout = s
+-			cmd.Stderr = s
++			cmd.Stderr = s.Stderr()
+ 
+ 			done := make(chan error, 1)
+ 			go func() { done <- cmd.Run() }()

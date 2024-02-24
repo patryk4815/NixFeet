@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1651007983,
+        "narHash": "sha256-8BX6w4X+A3KHVl8Gf0mswcKaamKCGpPq8rr0nlJSm0o=",
+        "type": "git",
+        "url": "file:///Users/psondej/projekty/nixpkgs_armv7"
+      },
+      "original": {
+        "type": "git",
+        "url": "file:///Users/psondej/projekty/nixpkgs_armv7"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

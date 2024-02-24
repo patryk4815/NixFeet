@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/BPI-SINOVOIP/BPI_WiFi_Firmware/master/ap6210/nvram_ap6210.txt">redirected</a>.</body></html>

@@ -1,0 +1,95 @@
+: 1641748291:0;nix-shell -p vim
+: 1641748291:0;ls
+: 1641748291:0;cd work/
+: 1641748291:0;cd ./racecar
+: 1641748291:0;cd ..
+: 1641748291:0;ls
+: 1641748291:0;l
+: 1641748291:0;nix-shell -p vim
+: 1641748291:0;vim
+: 1641748291:0;cd work
+: 1641748291:0;ls
+: 1641748291:0;nix-shell -p vim
+: 1641748291:0;vim
+: 1641748291:0;ll
+: 1641748291:0;cd /work
+: 1641748291:0;ls
+: 1641748291:0;nix-shell -p pwn.nix
+: 1641748291:0;nix-shell -p shell.nix
+: 1641748291:0;ls -al
+: 1641748291:0;nix --version
+: 1641748291:0;nix-shell -p shell.nix
+: 1641748291:0;nix-shell -p shell.nix --show-trace
+: 1641748291:0;bash
+: 1641748291:0;git_prompt_info
+: 1641748291:0;nix-shell shell.nix
+: 1641748244:0;ls -al
+: 1641748249:0;nix-shell shell.nix
+: 1641748282:0;ls
+: 1641748291:0;dir /lol
+: 1641748305:0;nix-shell shell.nix
+: 1641749431:0;ssh -4P root@76b82d3f2542 
+: 1641749442:0;ls
+: 1641750554:0;nix-shell
+: 1641750571:0;nix-shell -p python38
+: 1641750599:0;ranger /nix/store/i8pyrmaqyijsz3550bx2k6y28afp2ch3-powerlevel10k-1.15.0/share/
+: 1641750809:0;sleep 1&
+: 1641750816:0;sleep 20&
+: 1641755078:0;nix-shell -p python38 -p nodejs -p golang
+: 1641755081:0;nix-shell -p python38 -p nodejs -p go
+: 1641792808:0;neovim
+: 1641792836:0;python3
+: 1641792850:0;nvim
+: 1641794570:0;nix-env -iA nixpkgs.neovim
+: 1641794583:0;type vim
+: 1641794587:0;ls -al /root/.nix-profile/bin/vim
+: 1641794595:0;nix-env -e vim
+: 1641794598:0;nix-env -e nvim
+: 1641794601:0;nix-env -e neovim
+: 1641794607:0;nix-env -iA nixpkgs.neovim
+: 1641794612:0;vim x.txt
+: 1641794622:0;nvim x.txt
+: 1641802159:0;nix-shell -p powerlevel10k
+: 1641802166:0;ls /nix/store | grep powerlevel10k
+: 1641802170:0;ls -al 2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6
+: 1641802176:0;ls -al /nix/store2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6/
+: 1641802181:0;ls -al /nix/stor/e2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6/
+: 1641802184:0;ls -al /nix/store/2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6/
+: 1641802189:0;ls -al /nix/store/2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6/share/zsh-powerlevel10k
+: 1641802499:0;python3
+: 1641802503:0;cd /nix/store/syi409ssqqdpbkg2q1g0v8hd7n721vlc-powerlevel10k-1.15.0/share/zsh-powerlevel10k
+: 1641802504:0;ls
+: 1641802507:0;ls -al
+: 1641802598:0;nix-shell -p neovim
+: 1641802612:0;vim powerlevel9k.zsh-theme
+: 1641802618:0;neovim powerlevel9k.zsh-theme
+: 1641802623:0;nvim powerlevel9k.zsh-theme
+: 1641802683:0;ls -al /nix/store/2kg336sbka441xkr11z43pfcd9sv4vmh-powerlevel10k-1.14.6/share/zsh-powerlevel10k
+: 1641802686:0;cd /nix/store/syi409ssqqdpbkg2q1g0v8hd7n721vlc-powerlevel10k-1.15.0/share/zsh-powerlevel10k
+: 1641802687:0;ls
+: 1641802688:0;ls -al
+: 1641802705:0;ls -al internal
+: 1641838824:0;nix shell nixpkgs#ranger
+: 1641838831:0;nix --extra-experimental-features nix-command shell nixpkgs#ranger
+: 1641838839:0;nix --extra-experimental-features nix-command flakes shell nixpkgs#ranger
+: 1641838845:0;nix --extra-experimental-features nix-command --extra-experimental-features flakes shell nixpkgs#ranger
+: 1641838885:0;ranger
+: 1641838891:0;type ranger
+: 1641838896:0;ls -al /nix/store/6j5hk91x23b2jid9hkinrs277vv057r5-ranger-1.9.3/bin/ranger
+: 1641838900:0;ls -al /nix/store/6j5hk91x23b2jid9hkinrs277vv057r5-ranger-1.9.3/bin/ranger/
+: 1641838903:0;ls -al /nix/store/6j5hk91x23b2jid9hkinrs277vv057r5-ranger-1.9.3/
+: 1642091005:0;nix-shell -p python39Packages.ropper
+: 1642091016:0;ropper
+: 1642091039:0;nix-shell -p python39;
+: 1642091105:0;docker
+: 1642091109:0;nix-index
+: 1642091122:0;nix-shell -p nix-index
+: 1642091127:0;nix-index
+: 1642091496:0;nix-shell -p docker
+: 1642091526:0;docker
+: 1642091531:0;docker ps
+: 1642091583:0;docker run --privileged --rm xd bash
+: 1642091599:0;ls
+: 1642091601:0;ranger
+: 1642091612:0;cd /tmp/
+: 1642091613:0;ls -al
